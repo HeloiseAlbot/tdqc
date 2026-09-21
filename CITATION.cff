@@ -1,8 +1,9 @@
-@misc{albot2024tdqc,
-  author       = {Albot, Heloise},
-  title        = {tdqc: Time-Dependent Quantum Computing},
-  year         = {2024},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/HeloiseAlbot/tdqc}}
-}
+cff-version: 1.2.0
+message: ""
+authors:
+  - family-names: "Albot"
+    given-names: "Héloïse"
+title: "tdqc: Time-Dependent Quantum Computing"
+version: "0.1.0"
+date-released: 2024-01-01
+url: "https://github.com/HeloiseAlbot/tdqc"
