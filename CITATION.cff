@@ -3,7 +3,7 @@ message: ""
 authors:
   - family-names: "Albot"
     given-names: "Héloïse"
-title: "tdqc: Time-Dependent Quantum Computing"
+title: "tdqc: Time-Dependent Quantum Circuit"
 version: "0.1.0"
 date-released: 2024-01-01
 url: "https://github.com/HeloiseAlbot/tdqc"
